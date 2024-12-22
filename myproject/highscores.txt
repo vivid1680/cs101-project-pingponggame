@@ -1,0 +1,2 @@
+Player 1 Wins: 8
+Player 2 Wins: 18
