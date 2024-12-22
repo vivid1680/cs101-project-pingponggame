@@ -1,0 +1,5 @@
+1. Create a new window on vs 
+2. Open folder from vs
+3. Debug the code through f5
+4. The code is in src folder
+5. Enjoy playing the game. 
